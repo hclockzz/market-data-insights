@@ -9,6 +9,7 @@ Jira board: https://github.com/users/hclockzz/projects/3/views/1
 ## Architecture
 
 WIP: https://excalidraw.com/#json=10Mt915MMqQhlf7DbA3kD,F_IhExneOgVPTDsadUj4ng
+or shown here: ![architecture](architecture.excalidraw.png)
 
 
 ## GCP links
